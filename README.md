@@ -1,6 +1,6 @@
 # SQU Internship 
 
-This repository contains my internship report and documentation completed during my IT internship at the Information Systems Department, Sultan Qaboos University.
+This repository contains my internship report completed during my IT internship at the Information Systems Department, Sultan Qaboos University.
 
 ## Internship Overview
 
