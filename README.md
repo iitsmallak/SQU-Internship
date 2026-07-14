@@ -1,6 +1,6 @@
 # SQU Internship 
 
-This repository contains my internship documentation completed at the Information Systems Department, Sultan Qaboos University (SQU).
+This repository contains my internship report and documentation completed during my IT internship at the Information Systems Department, Sultan Qaboos University.
 
 ## Internship Overview
 
@@ -16,7 +16,7 @@ During the internship, I gained hands-on experience in:
 
 - Network configuration and troubleshooting
 - IP addressing and VLAN setup
-- Switches, routers, and Ethernet cable preparation
+- Switches, routers, and network cabling fundamentals
 - Network traffic analysis using Wireshark
 - Active Directory user and group management
 - PowerShell scripting fundamentals
@@ -45,4 +45,4 @@ The complete internship report including:
 - Technical experiences
 - Challenges and learning outcomes
 
-
+**Prepared by Mallak 
