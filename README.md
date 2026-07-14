@@ -45,4 +45,6 @@ The complete internship report including:
 - Technical experiences
 - Challenges and learning outcomes
 
-## Prepared by Mallak 
+## Author
+
+**Mallak .H
