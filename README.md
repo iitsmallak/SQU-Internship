@@ -24,7 +24,6 @@ During the internship, I gained hands-on experience in:
 - Virtual machines and remote server access
 - Cybersecurity fundamentals
 - AI automation using n8n
-- Enterprise network solutions including Aruba ClearPass and AirWave
 
 ## Tools & Technologies
 
@@ -35,8 +34,6 @@ During the internship, I gained hands-on experience in:
 - Virtual Machines
 - PuTTY
 - n8n
-- Aruba ClearPass
-- Aruba AirWave
 
 ## Repository Contents
 
