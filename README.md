@@ -9,8 +9,12 @@ This repository contains my internship report completed during my IT internship 
 
 The internship provided practical exposure to IT infrastructure, networking, cybersecurity, system administration, and automation concepts. It helped bridge the gap between academic knowledge and real-world IT environments.
 
+## Key Learning Outcomes
 
-
+- Improved understanding of enterprise IT infrastructure.
+- Developed practical networking and system administration skills.
+- Gained exposure to cybersecurity tools and practices.
+- Enhanced troubleshooting and technical problem-solving abilities.
 
 
 
