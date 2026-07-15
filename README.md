@@ -16,5 +16,9 @@ The internship provided practical exposure to IT infrastructure, networking, cyb
 - Gained exposure to cybersecurity tools and practices.
 - Enhanced troubleshooting and technical problem-solving abilities.
 
+## Tools & Technologies
+
+Wireshark , PowerShell , Active Directory , Linux , Virtual Machines , PuTTY , n8n
+
 
 
